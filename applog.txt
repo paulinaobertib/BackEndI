@@ -1,0 +1,254 @@
+INFO    2022-11-03 12:36:40,047 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 12:37:46,643 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 12:38:20,308 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 12:51:24,479 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 12:51:42,748 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 12:55:01,828 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 12:55:14,679 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 12:56:59,243 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 12:58:30,410 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 12:58:54,566 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 18:16:27,721 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 18:56:37,786 [main] Test.PacienteServiceTest  - TEST: Agregando los pacientes
+INFO    2022-11-03 18:56:37,795 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 18:56:38,234 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 18:56:38,255 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 18:56:38,281 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 18:56:38,281 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 18:56:38,309 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 18:57:19,150 [main] Test.PacienteServiceTest  - TEST: Agregando los pacientes
+INFO    2022-11-03 18:57:19,151 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 18:57:19,569 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 18:57:19,572 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 18:57:19,579 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 18:57:19,579 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 18:57:19,600 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 18:57:43,186 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 18:57:43,195 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 18:57:43,638 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 18:57:43,643 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 18:57:43,654 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 18:57:43,654 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 18:59:09,927 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 18:59:09,929 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 18:59:10,349 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 18:59:10,356 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 18:59:10,366 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 18:59:10,366 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:01:25,779 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:01:25,780 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:01:26,015 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:01:26,035 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:01:26,066 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:01:26,066 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:01:44,366 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:01:44,368 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:01:44,781 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:01:44,785 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:01:44,795 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:01:44,796 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:02:28,264 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:02:28,266 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:02:28,508 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:02:28,529 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:02:28,556 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:02:28,556 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:02:38,866 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:02:38,868 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:02:39,302 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:02:39,306 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:02:39,315 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:02:39,315 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:06:12,273 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:06:12,276 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:06:12,682 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:06:12,684 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:06:12,691 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:06:12,692 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:07:00,253 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:07:00,255 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:07:00,641 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:07:00,644 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:07:00,651 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:07:00,651 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:08:23,038 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:08:23,040 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:08:23,466 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:08:23,468 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:08:23,476 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:08:23,476 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:08:42,905 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:08:42,907 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:08:43,318 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:08:43,321 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:08:43,328 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:08:43,328 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:08:43,348 [main] DAO.impl.OdontologoH2  - [Odontologo {ID: 1, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 2, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 3, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 4, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 5, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 6, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 7, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 8, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 9, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}]
+INFO    2022-11-03 19:13:11,064 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:13:11,067 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:13:11,507 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:13:11,507 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:13:11,510 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:13:11,510 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:13:11,513 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:13:11,518 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:13:11,518 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:13:11,539 [main] DAO.impl.OdontologoH2  - [Odontologo {ID: 1, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 2, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 3, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 4, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 5, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 6, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 7, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 8, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 9, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 10, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 11, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 12, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}]
+INFO    2022-11-03 19:13:24,566 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:13:24,568 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:13:25,006 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:13:25,006 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:13:25,009 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:13:25,010 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:13:25,013 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:13:25,017 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 19:13:25,017 [main] DAO.impl.OdontologoH2  - Eliminando odontologo de la base de datos
+INFO    2022-11-03 19:13:25,030 [main] DAO.impl.OdontologoH2  - Se elimino con exito el odontologo de la base de datos
+INFO    2022-11-03 19:13:25,030 [main] DAO.impl.OdontologoH2  - Buscando al odontologo en la base de datos
+INFO    2022-11-03 19:13:25,042 [main] DAO.impl.OdontologoH2  - 
+INFO    2022-11-03 19:14:22,604 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:14:22,606 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:14:23,057 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:14:23,058 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:14:23,061 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:14:23,061 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:14:23,064 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:14:23,069 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 19:14:23,069 [main] DAO.impl.OdontologoH2  - Eliminando odontologo de la base de datos
+INFO    2022-11-03 19:14:23,081 [main] DAO.impl.OdontologoH2  - Se elimino con exito el odontologo de la base de datos
+INFO    2022-11-03 19:14:23,082 [main] DAO.impl.OdontologoH2  - Buscando al odontologo en la base de datos
+INFO    2022-11-03 19:14:23,094 [main] DAO.impl.OdontologoH2  - 
+INFO    2022-11-03 19:15:50,668 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:15:50,671 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:15:51,154 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:15:51,154 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:15:51,156 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:15:51,157 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:15:51,159 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:15:51,165 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 19:15:51,165 [main] DAO.impl.OdontologoH2  - Eliminando odontologo de la base de datos
+INFO    2022-11-03 19:15:51,177 [main] DAO.impl.OdontologoH2  - Se elimino con exito el odontologo de la base de datos
+INFO    2022-11-03 19:15:51,177 [main] DAO.impl.OdontologoH2  - Buscando al odontologo en la base de datos
+INFO    2022-11-03 19:15:51,190 [main] DAO.impl.OdontologoH2  - 
+INFO    2022-11-03 19:16:40,124 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:16:40,126 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:16:40,580 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:16:40,580 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:16:40,583 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:16:40,583 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:16:40,586 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:16:40,593 [main] Test.OdontologoServiceTest  - Realizando el test de eliminar odontologo
+INFO    2022-11-03 19:16:40,593 [main] DAO.impl.OdontologoH2  - Eliminando odontologo de la base de datos
+INFO    2022-11-03 19:16:40,606 [main] DAO.impl.OdontologoH2  - Se elimino con exito el odontologo de la base de datos
+INFO    2022-11-03 19:16:40,606 [main] DAO.impl.OdontologoH2  - Buscando al odontologo en la base de datos
+INFO    2022-11-03 19:16:40,618 [main] DAO.impl.OdontologoH2  - 
+INFO    2022-11-03 19:18:28,965 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:18:28,967 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:18:29,364 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:18:29,365 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:18:29,367 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:18:29,367 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:18:29,370 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:18:29,374 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:18:29,375 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:18:29,393 [main] DAO.impl.OdontologoH2  - [Odontologo {ID: 2, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 3, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 4, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 5, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 6, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 7, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 8, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 9, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 10, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 11, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 12, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 13, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 14, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 15, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 16, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 17, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 18, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 19, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 20, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 21, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 22, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 23, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 24, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 25, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 26, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 27, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}]
+INFO    2022-11-03 19:23:09,861 [main] Test.PacienteServiceTest  - TEST: Agregando los pacientes
+INFO    2022-11-03 19:23:09,863 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:23:10,262 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:23:10,262 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:23:10,265 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:23:10,266 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:23:10,268 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:23:10,273 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 19:23:10,273 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 19:23:10,294 [main] DAO.impl.PacienteH2  - Paciente {ID: 1, nombre: Raul, apellido: Hernandez, edad: 34, DNI: 44539204, fecha alta: 2022-11-03}
+INFO    2022-11-03 19:23:10,308 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 19:23:10,311 [main] DAO.impl.PacienteH2  - Paciente {ID: 2, nombre: Ramona, apellido: Hernandez, edad: 19, DNI: 45768786, fecha alta: 2022-11-03}
+INFO    2022-11-03 19:23:43,409 [main] Test.PacienteServiceTest  - TEST: Agregando los pacientes
+INFO    2022-11-03 19:23:43,411 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:23:43,813 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:23:43,813 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:23:43,816 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:23:43,816 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:23:43,819 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:23:43,823 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 19:23:43,823 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 19:23:43,845 [main] DAO.impl.PacienteH2  - Paciente {ID: 1, nombre: Raul, apellido: Hernandez, edad: 34, DNI: 44539204, fecha alta: 2022-11-03}
+INFO    2022-11-03 19:23:43,859 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 19:23:43,862 [main] DAO.impl.PacienteH2  - Paciente {ID: 1, nombre: Raul, apellido: Hernandez, edad: 34, DNI: 44539204, fecha alta: 2022-11-03}
+INFO    2022-11-03 19:24:03,534 [main] Test.PacienteServiceTest  - TEST: Agregando los pacientes
+INFO    2022-11-03 19:24:03,536 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:24:03,945 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:24:03,945 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:24:03,948 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:24:03,948 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:24:03,951 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:24:03,955 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 19:24:03,956 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 19:24:03,977 [main] DAO.impl.PacienteH2  - Paciente {ID: 1, nombre: Raul, apellido: Hernandez, edad: 34, DNI: 44539204, fecha alta: 2022-11-03}
+INFO    2022-11-03 19:32:30,857 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:32:30,859 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:32:31,250 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:32:31,251 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:32:31,253 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:32:31,254 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:32:31,256 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:32:31,261 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:32:31,261 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:32:31,280 [main] DAO.impl.OdontologoH2  - [Odontologo {ID: 2, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 3, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 4, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 5, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 6, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 7, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 8, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 9, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 10, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 11, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 12, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 13, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 14, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 15, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 16, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 17, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 18, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 19, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 20, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 21, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 22, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 23, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 24, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 25, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 26, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 27, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}, Odontologo {ID: 28, nombre: Roberto, apellido: Perez, matricula: AEN2342}, Odontologo {ID: 29, nombre: Patricia, apellido: Lopez, matricula: P287U2B}, Odontologo {ID: 30, nombre: Daniel, apellido: Gigena, matricula: DUJAJ234}]
+INFO    2022-11-03 19:33:15,749 [main] Test.PacienteServiceTest  - TEST: Agregando los pacientes
+INFO    2022-11-03 19:33:15,751 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:33:16,121 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:33:16,121 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:33:16,124 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:33:16,124 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:33:16,127 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:33:16,132 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 19:33:16,132 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 19:33:16,153 [main] DAO.impl.PacienteH2  - Paciente {ID: 1, nombre: Raul, apellido: Hernandez, edad: 34, DNI: 44539204, fecha alta: 2022-11-03}
+INFO    2022-11-03 19:33:29,527 [main] Test.PacienteServiceTest  - TEST: Agregando los pacientes
+INFO    2022-11-03 19:33:29,529 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:33:29,940 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:33:29,940 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:33:29,943 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:33:29,943 [main] DAO.impl.PacienteH2  - Agregando paciente a la base de datos
+INFO    2022-11-03 19:33:29,946 [main] DAO.impl.PacienteH2  - Se agrego con exito el paciente a la base de datos
+INFO    2022-11-03 19:33:29,951 [main] Test.PacienteServiceTest  - Realizando el test de buscar paciente
+INFO    2022-11-03 19:33:29,951 [main] DAO.impl.PacienteH2  - Buscando paciente en la base de datos
+INFO    2022-11-03 19:33:29,972 [main] DAO.impl.PacienteH2  - Paciente {ID: 3, nombre: Sebastian, apellido: Plomer, edad: 64, DNI: 345643456, fecha alta: 2022-11-03}
+INFO    2022-11-03 19:44:38,533 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:44:38,535 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:44:38,953 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:44:38,953 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:44:38,956 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:44:38,956 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:44:38,958 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:44:38,962 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:44:38,962 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:45:06,018 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:45:06,019 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:06,458 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:06,458 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:06,461 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:06,461 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:06,464 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:06,469 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:45:06,469 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:45:23,128 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:45:23,130 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:23,533 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:23,533 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:23,536 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:23,536 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:23,539 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:23,543 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:45:23,543 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
+INFO    2022-11-03 19:45:36,208 [main] Test.OdontologoServiceTest  - TEST: Agregando los odontologos
+INFO    2022-11-03 19:45:36,209 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:36,617 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:36,617 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:36,620 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:36,620 [main] DAO.impl.OdontologoH2  - Agregando odontologo a la base de datos
+INFO    2022-11-03 19:45:36,623 [main] DAO.impl.OdontologoH2  - Se agrego con exito el odontologo a la base de datos
+INFO    2022-11-03 19:45:36,627 [main] Test.OdontologoServiceTest  - Realizando el test de listar todos los odontologos
+INFO    2022-11-03 19:45:36,627 [main] DAO.impl.OdontologoH2  - Listando todos los odontologos de la base de datos
